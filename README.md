@@ -4,16 +4,16 @@ Aspiring Cybersecurity Professional | Information Technology Student at George M
 
 ---
 
-## 🔍 About Me
+##  About Me
 
 I'm an Information Technology student at George Mason University, focusing on Cybersecurity. I've been into tech since I was a kid. I was always into fixing computers, helping friends and family with their tech problems, and messing around with my home network just to see how things work. I used to run little experiments like slowing down the network on purpose or testing how systems react under pressure. That curiosity eventually turned into a real passion for cybersecurity, and now I'm working toward helping protect systems from online threats.
 ---
 
-## 🎓 Education
+##  Education
 
 - **George Mason University** (2024–2028)
   - *B.S. in Information Technology, Concentration in Cybersecurity*
-  - GPA: 3.93
+  - GPA: 3.97
 
 - **Potomac Falls High School** (2020–2024)
   - GPA: 4.13
@@ -21,7 +21,7 @@ I'm an Information Technology student at George Mason University, focusing on Cy
 
 ---
 
-## 🛠️ Skills/Technical stuff
+##  Skills/Technical stuff
 
 - **Cybersecurity Tools**: Kali Linux, Wireshark, Firewalls, Vulnerability Assessment
 - **Programming**: Python, SQL, HTML5
@@ -30,7 +30,7 @@ I'm an Information Technology student at George Mason University, focusing on Cy
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - [Google Cybersecurity Certification](https://www.credly.com/badges/e8e2bc05-db56-4383-a80b-d28dab55fef1/linked_in_profile)
 - [CompTIA ITF+ Fundamentals Certification](https://www.credly.com/badges/f74d6bc7-0038-42b7-a674-cba3498f882e/linked_in_profile)
@@ -38,7 +38,7 @@ I'm an Information Technology student at George Mason University, focusing on Cy
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 - **Portfolio**: [abyan.world](https://abyan.world)
 - **Extra Site**: [abyan.lol](https://abyan.lol)
