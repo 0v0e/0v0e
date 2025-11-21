@@ -6,7 +6,7 @@ Aspiring Cybersecurity Professional | Information Technology Student at George M
 
 ##  About Me
 
-I'm an Information Technology student at George Mason University, focusing on Cybersecurity. I've been into tech since I was a kid. I was always into fixing computers, helping friends and family with their tech problems, and messing around with my home network just to see how things work. I used to run little experiments like slowing down the network on purpose or testing how systems react under pressure. That curiosity eventually turned into a real passion for cybersecurity, and now I'm working toward helping protect systems from online threats.
+I'm an Information Technology student at George Mason University, focusing on Cybersecurity. I've been into tech since I was a kid. I was always into fixing computers, helping friends and family with their tech problems, and messing around with my home network just to see how things work.  That curiosity eventually turned into a real passion for cybersecurity, and now I'm working toward helping protect systems from online threats.
 ---
 
 ##  Education
