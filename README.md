@@ -6,7 +6,7 @@ Aspiring Cybersecurity Professional | Information Technology Student at George M
 
 ##  About Me
 
-I'm an Information Technology student at George Mason University, focusing on Cybersecurity. I've been into tech since I was a kid. I was always into fixing computers, helping friends and family with their tech problems, and messing around with my home network just to see how things work.  That curiosity eventually turned into a real passion for cybersecurity, and now I'm working toward helping protect systems from online threats.
+I'm an Information Technology student at George Mason University, focusing on Cybersecurity. I've been into tech since I was a kid. I was always into fixing computers, helping friends and family with their tech problems, and tweaking  with my home network just to see how things work.  That curiosity eventually turned into a real passion for cybersecurity, and now I'm working toward helping protect systems from online threats.
 ---
 
 ##  Education
@@ -40,8 +40,8 @@ I'm an Information Technology student at George Mason University, focusing on Cy
 
 ##  Connect with Me
 
-- **Portfolio**: [abyan.world](https://abyan.world)
-- **Extra Site**: [abyan.lol](https://abyan.lol)
+- **Portfolio**: [abyan.lol](https://abyan.lol)
+- **Extra Site**: [https://0v0e.github.io/abyan/](https://0v0e.github.io/abyan/)
 - **LinkedIn**: [linkedin.com/in/abyanahmed](https://www.linkedin.com/in/abyanahmed)
 
 ---
