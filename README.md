@@ -13,7 +13,7 @@ I'm an Information Technology student at George Mason University, focusing on Cy
 
 - **George Mason University** (2024–2028)
   - *B.S. in Information Technology, Concentration in Cybersecurity*
-  - GPA: 3.97
+  - GPA: 3.95
 
 - **Potomac Falls High School** (2020–2024)
   - GPA: 4.13
