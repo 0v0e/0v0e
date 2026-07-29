@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abyan
+#  Hey, I'm Abyan
 
 Aspiring Cybersecurity Professional | Information Technology Student at George Mason University
 
@@ -13,7 +13,7 @@ I'm an Information Technology student at George Mason University, focusing on Cy
 
 - **George Mason University** (2024–2028)
   - *B.S. in Information Technology, Concentration in Cybersecurity*
-  - GPA: 3.95
+  - GPA: 3.93
 
 - **Potomac Falls High School** (2020–2024)
   - GPA: 4.13
@@ -23,10 +23,10 @@ I'm an Information Technology student at George Mason University, focusing on Cy
 
 ##  Skills/Technical stuff
 
-- **Cybersecurity Tools**: Kali Linux, Wireshark, Firewalls, Vulnerability Assessment
-- **Programming**: Python, SQL, HTML5
+- **IT/Cyber Tools**: Kali Linux, Wireshark, Firewalls, SonarQube, nmap, AWS, S3, Lambda, Inspector, Cognito, CloudFront, Active Directory, Windows Server
+- **Programming**: Python, SQL, JavaScript, Node.js, Bash
 - **Networking**: Packet Sniffing, Network Traffic Analysis, VPN Implementation
-- **Soft Skills**: Leadership, Collaboration, Time Management
+- **Frameworks**: FedRAMP, NIST 800-53, NIST 800-37
 
 ---
 
